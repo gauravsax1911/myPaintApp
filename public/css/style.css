@@ -1,0 +1,17 @@
+    #width{
+        width: 10%;
+    }
+
+#nav{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    /* width: 100%; */
+}
+
+
+#canvas{
+  
+    border: 5px dotted black;
+}
+
